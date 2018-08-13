@@ -2,6 +2,7 @@ plugins:
   deepshikhaaa/deepshikhaaa.github.io:
   - size
   - cat
-  - wip  
+  - wip
+  - assign  
   - trigger  
 
