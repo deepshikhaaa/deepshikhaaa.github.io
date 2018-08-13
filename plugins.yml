@@ -1,0 +1,7 @@
+plugins:
+  deepshikhaaa/deepshikhaaa.github.io:
+  - size
+  - wip
+  - assign  
+  - trigger  
+
